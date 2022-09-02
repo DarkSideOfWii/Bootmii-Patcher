@@ -4,4 +4,4 @@ This Patcher DON'T create damages to MacOS, it Work or Don't Work, I'm not respo
 for the patcher, don't give to he/she, but go to bootmii.org and segnalize.
 
 The file works only if before you copied file in desktop and typed this on the terminal:
-chmod +x BootmiiPatcher.sh
+chmod +x BootMiiPatcher.sh
